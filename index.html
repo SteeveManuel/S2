@@ -96,7 +96,7 @@
           <h2>Advanced DataBase Management System</h2>
           <table cellpadding="20px">
             <tr><td colspan="3"><div class="elipse"><a href="S2/1.pdf">syllabus</a></div></td></tr>
-            <tr><td><div class="elipse"><a href="S2/1.1.pdf">Module 1 </a></div></td>
+            <tr><td><div class="elipse"><a href="dbms.html">Module 1 </a></div></td>
             <td><div class="elipse"><a href="index.html">Module 2</a></div></td>
             <td><div class="elipse"><a href="index.html">Module 3</a></div></td></tr>
             <tr><td><div class="elipse"><a href="index.html">Module 4</a></div></td>
