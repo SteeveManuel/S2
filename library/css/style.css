@@ -43,7 +43,18 @@ mark{
    background-color: yellow;
 }
 
+.elipse{
+  margin: 10px;
+  padding:5px 20px;
+  border: 2px solid  #6f7180;
+  border-radius: 30px; 
+  width: fit-content;
 
+}
+
+.elipse:hover{
+  border-color:#6328d1;
+}
 
 .otxt {
     font-size: 16px;
